@@ -1,7 +1,7 @@
 baseURL: https://rkweb.netlify.app/
 languageCode: en-us
 title: Roberto
-theme: Website
+theme: fortys
 googleAnalytics: ''
 disqusShortname: ''
 params:
