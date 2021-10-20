@@ -1,7 +1,7 @@
 baseURL: https://rkweb.netlify.app/
 languageCode: en-us
 title: Roberto
-theme: fortys
+theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
@@ -13,7 +13,7 @@ params:
     title: Hi, my name is Roberto
   blog: {}
   contact:
-    address:gir 
+    address:
       - city: London, NW1 4SA
         country: United Kingdom
         street: Regent's Park
