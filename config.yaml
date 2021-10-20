@@ -13,7 +13,7 @@ params:
     title: Hi, my name is Roberto
   blog: {}
   contact:
-    address:
+    address:gir 
       - city: London, NW1 4SA
         country: United Kingdom
         street: Regent's Park
